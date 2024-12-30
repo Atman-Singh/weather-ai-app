@@ -10,6 +10,7 @@ recommends outfits based on the day's weather.
 ### Virtual Environment
 -  Activate virtual environment by running the following command in your terminal:
    `(project folder path)\Scripts\activate`
+-  To launch jupyter lab, run the command `jupyter lab`
 -  When you need to install a libary, perform the installation using pip **while in the virtual environment** to keep everything contained within the venv.
 -  Before pushing code to the remote repository, update the *requirements.txt* file by running `pip freeze --local` in the venv and copying the output to *requirements.txt* (overwrite what's there)
 
